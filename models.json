@@ -12,7 +12,7 @@
 	{
 		"id": "1",
 		"title": "数组排序",
-		"desc": "### sort the array",
+		"desc": "#### sort the array",
 		"func_name": "sort",
 		"content": "package goojt\n\nfunc sort(in []int) []int {\n\t return in\n}",
 		"args_type": "[]int",
